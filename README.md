@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/priyanshu5656/portfolio](https://github.com/priyanshu5656/portfolio)
 
-- 💬 Ask me about **REAXT JS,NODE JS,EXPRESS JS**
+- 💬 Ask me about **REACT JS,NODE JS,EXPRESS JS**
 
 - 📫 How to reach me **priyanshukumar906@gmail.com**
 
