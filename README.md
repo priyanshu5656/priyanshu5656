@@ -14,13 +14,11 @@
 
 - 👯 I’m looking to collaborate on [self-help](https://github.com/bharatnav/Team-WebAcheivers)
 
-- 👨‍💻 All of my projects are available at [https://github.com/priyanshu5656/portfolio](https://github.com/priyanshu5656/portfolio)
 
 - 💬 Ask me about **REACT JS,NODE JS,EXPRESS JS**
 
 - 📫 How to reach me **priyanshukumar906@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gKPe-gT6eLoD-DXXW02jfGBV-fXiFeWO/view?usp=sharing](https://drive.google.com/file/d/1gKPe-gT6eLoD-DXXW02jfGBV-fXiFeWO/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
